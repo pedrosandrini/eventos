@@ -1,0 +1,11 @@
+# Virtual Envoriment
+venv
+
+# Cache
+
+__pycache__
+
+# Migrations and DB
+
+*.sqlite
+migrations
